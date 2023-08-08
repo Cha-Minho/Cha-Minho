@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cha-Minho
-- 👀 I’m interested in Algorithm problem solving and system programming
-- 🌱 I’m currently learning operating system and organization of programming language
-- 💞️ I’m working in Dream Ladders
+- 👀 I’m interested in System programming
+- 🌱 I’m currently learning Networking and Reinforce Learning
+- 💞️ I worked in Dream Ladders (2022.12.08 ~ 2023.02.28)
 - 📫 How to reach me ... ckalsgh56@kaist.ac.kr or ckalsgh56@naver.com
 
 <!---

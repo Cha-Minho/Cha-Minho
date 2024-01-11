@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cha-Minho
 - 👀 I’m interested in System programming
-- 🌱 I’m currently learning Networking and Reinforce Learning
+- 🌱 I’m currently learning Networking and Computer Vision
 - 💞️ I worked in Dream Ladders (2022.12.08 ~ 2023.02.28)
 - 📫 How to reach me ... ckalsgh56@kaist.ac.kr or ckalsgh56@naver.com
 
